@@ -13,3 +13,5 @@
 * [Repository Structure](prompts/08_repository_structure.md)
 * [Canary Preflight Master Prompt](prompts/10_canary_preflight_master_prompt.md)
 * [Preflight Report](planning/preflight_report.md)
+* [Preflight Prompt Improvement Notes](prompts/10_canary_preflight_master_prompt_v2_notes.md)
+
