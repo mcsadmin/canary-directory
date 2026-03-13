@@ -12,3 +12,4 @@
 * [Coding Agent Master Prompt v2](prompts/07_coding_agent_master_prompt_v2c.md)
 * [Repository Structure](prompts/08_repository_structure.md)
 * [Canary Preflight Master Prompt](prompts/10_canary_preflight_master_prompt.md)
+* [Preflight Report](planning/preflight_report.md)
