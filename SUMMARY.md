@@ -9,6 +9,9 @@
 ## Method
 * [Working Method Protocol v2](method/03_working_method_protocol_v2c.md)
 
+## Log
+* [Handoff Note — Session 1: Requirements Elicitation](log/handoff_session_1_requirements_elicitation_2026-03-14.md)
+
 ## Prompts
 * [Coaching Master Prompt v5](prompts/04_coaching_master_prompt_v5.md)
 * [Coding Agent Master Prompt v2](prompts/07_coding_agent_master_prompt_v2c.md)
