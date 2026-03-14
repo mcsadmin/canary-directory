@@ -6,6 +6,9 @@
 * [Requirements Map](planning/requirements_map.md)
 * [Preflight Report](planning/preflight_report.md)
 
+## Requirements Briefs
+* [RB-001: Invoice Ingestion](planning/requirements_briefs/RB-001_invoice_ingestion.md)
+
 ## Method
 * [Working Method Protocol v2](method/03_working_method_protocol_v2c.md)
 

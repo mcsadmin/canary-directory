@@ -8,7 +8,7 @@
 
 | # | Group | Status | Brief | Dependencies | Assigned To | Notes |
 |---|---|---|---|---|---|---|
-| 1 | Invoice Ingestion | Not Yet Briefed | — | None | — | How the system accepts invoice data — input format, validation rules, what constitutes a valid invoice, what happens to invalid data |
+| 1 | Invoice Ingestion | Open | RB-001 | None | Tom and Dil | How the system accepts invoice data — input format, validation rules, what constitutes a valid invoice, what happens to invalid data |
 | 2 | Entity Resolution | Not Yet Briefed | — | Invoice Ingestion | — | How the system builds and maintains the directory — businesses/nodes created via platform user registration *and* via invoice ingestion and analysis; deduplication, merging, updating; what "minimal human input" means in practice; the registered/inferred node distinction |
 | 3 | Directory State and Integrity | Not Yet Briefed | — | Entity Resolution | — | The data model for a business node; integrity constraints the system must enforce; what "accurate, reliable, and robust" means as testable properties |
 | 4 | Operator UI and Verification | Not Yet Briefed | — | Directory State and Integrity | — | The data table view; the invoice input mechanism; legibility of expected and unexpected behaviour; the "verify with minimal effort" requirement |
