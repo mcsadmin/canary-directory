@@ -12,6 +12,9 @@
 ## Method
 * [Working Method Protocol v2](method/03_working_method_protocol_v2c.md)
 
+## Daily State
+* [Daily State — 14 March 2026](method/daily_state/daily_state_2026-03-14.md)
+
 ## Log
 * [Handoff Note — Session 1: Requirements Elicitation](log/handoff_session_1_requirements_elicitation_2026-03-14.md)
 
