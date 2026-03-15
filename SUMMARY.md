@@ -13,6 +13,7 @@
 * [Working Method Protocol v2](method/03_working_method_protocol_v2c.md)
 
 ## Daily State
+* [Morning Briefing — 15 March 2026](method/daily_state/morning_briefing_2026-03-15.md)
 * [Daily State — 14 March 2026](method/daily_state/daily_state_2026-03-14.md)
 
 ## Log
