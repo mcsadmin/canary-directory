@@ -8,7 +8,7 @@
 
 ## Scope of This Group
 
-This group covers how the system accepts invoice data — the input format, validation rules, what constitutes a valid invoice, and what happens to invalid data. It is the entry point for all data that feeds the Directory: nothing enters the obligation graph without passing through this layer.
+This group covers how the system accepts invoice data — the input format, validation rules, what constitutes a valid invoice, and what happens to invalid data. It is the entry point for all data that feeds the Directory: nothing enters the invoice graph without passing through this layer.
 
 Out of scope for this session: how the system resolves ingested data into business nodes (that is Group 2: Entity Resolution), the data model for the business directory itself (Group 3), and any UI concerns (Group 4). This session defines what goes in; subsequent sessions define what the system does with it.
 
