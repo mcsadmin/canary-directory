@@ -9,7 +9,7 @@
 | # | Group | Status | Brief | Dependencies | Assigned To | Notes |
 |---|---|---|---|---|---|---|
 | 1 | Invoice Ingestion | Closed | RB-001 | None | Tom and Dil | ADR-001, ADR-002, ADR-003, ADR-004. Sufficiency confirmed 15 March 2026. |
-| 2 | Entity Resolution | Not Yet Briefed | — | Invoice Ingestion | — | How the system builds and maintains the directory — businesses/nodes created via platform user registration *and* via invoice ingestion and analysis; deduplication, merging, updating; what "minimal human input" means in practice; the registered/inferred node distinction |
+| 2 | Entity Resolution | Open | RB-002 | Invoice Ingestion | Tom and Dil | How the system builds and maintains the directory — businesses/nodes created via platform user registration *and* via invoice ingestion and analysis; deduplication, merging, updating; what “minimal human input” means in practice; the registered/inferred node distinction |
 | 3 | Directory State and Integrity | Not Yet Briefed | — | Entity Resolution | — | The data model for a business node; integrity constraints the system must enforce; what "accurate, reliable, and robust" means as testable properties |
 | 4 | Operator UI and Verification | Not Yet Briefed | — | Directory State and Integrity | — | The data table view; the invoice input mechanism; legibility of expected and unexpected behaviour; the "verify with minimal effort" requirement |
 | 5 | Non-Functional Requirements | Not Yet Briefed | — | All of the above | — | Minimal NFR set for the canary — performance, reliability, and any other non-functional constraints the team considers necessary |

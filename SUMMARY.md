@@ -9,6 +9,7 @@
 ## Requirements Briefs
 * [RB-001: Invoice Ingestion](planning/requirements_briefs/RB-001_invoice_ingestion.md)
 * [RB-001: Session Summary](planning/requirements_briefs/RB-001_session_summary.md)
+* [RB-002: Entity Resolution](planning/requirements_briefs/RB-002_entity_resolution.md)
 
 ## Specifications
 * [Feature: Invoice Ingestion](specs/features/invoice_ingestion.feature)
